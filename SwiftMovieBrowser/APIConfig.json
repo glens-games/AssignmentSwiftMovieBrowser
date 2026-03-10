@@ -1,0 +1,4 @@
+{
+        "tmdbBaseURL":"https://api.themoviedb.org",
+        "tmdbAPIKey":"INSERT KEY HERE"
+}
